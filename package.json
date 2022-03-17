@@ -1,5 +1,9 @@
 {
-  "private": true,
+  "private": false,
+  "author": {
+    "name": "Eran Bodokh",
+    "email": "eran@devshift.biz"
+  },
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
